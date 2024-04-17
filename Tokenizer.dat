@@ -1,14 +1,2 @@
-/*************************************************
- *  Example of PostScript-like RPN calculations  *
- *                                               *
- *       Parsed expression equivalent to:        *
- *       ( 2 * (7 + 5) - 20 ) / ( 1 / 4 )        *
- *                                               *
- *    a - addition           s - subtraction     *
- *    m - multiplication     d - division        *
- *                                               *
- *************************************************/
-
-    2 7 5 a m    // this is  2*(7+5), i.e., 24
-    19.5 s       // subtracting 19.5 gives 4.5
-    1 4 d d      // dividing by 1/4  yields 18
+Tokyo 38 Delhi
+25.7    Shanghai 23.7 SaoPaulo 21 Mumbai 21
