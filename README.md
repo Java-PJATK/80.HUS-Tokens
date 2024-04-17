@@ -6,4 +6,7 @@ Page 124
 
 HUS-Tokens/Tokenizer.java
 
-An issue with the Tokenizer.dat file. Not included in the zip file. ##TODO Ask Tomasz R. Werner for help.
+Tokenizer.dat
+
+Tokyo 38 Delhi
+25.7  Shanghai 23.7 SaoPaulo 21 Mumbai 21
