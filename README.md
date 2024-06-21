@@ -121,7 +121,7 @@ import java.io.BufferedOutputStream;
             new FileOutputStream("fo.bin"))
 ```
 
-13.3.2 Reading a binary file into an array of bytes
+### 13.3.2 Reading a binary file into an array of bytes
 
 ```java
 import java.io.IOException;
